@@ -8,7 +8,7 @@ export default function Hero() {
       <ul className="mt-8 space-y-3 text-lg text-zinc-600 dark:text-zinc-400">
         <li>🎓 İTÜ Cevher Hazırlama Mühendisliği 4. sınıf öğrencisiyim.</li>
         <li>⚽ 11 kez düzenlenen uluslararası bir gençlik futbol turnuvasının organizatörüyüm.</li>
-        <li>💻 Web geliştirme öğreniyorum.</li>
+        <li>💻 Web geliştirme öğreniyorum ve küçük işletmelere site yapıyorum.</li>
       </ul>
       <a
         href="#iletisim"
